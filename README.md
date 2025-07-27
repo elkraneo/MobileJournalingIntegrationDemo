@@ -1,4 +1,4 @@
-# Photo Scene Demo
+# Custom Photo Editor Demo
 
 A simple SwiftUI demo showcasing how to build an image gallery and lightweight editor. Users can add photos, view them in a gallery with thumbnails, and open a basic editor to apply color overlays. All scenes and edits are saved temporarily for demonstration and learning purposes.
 
